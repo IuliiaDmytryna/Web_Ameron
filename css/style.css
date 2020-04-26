@@ -47,8 +47,21 @@ h1 {
     margin-top: 53px;
 }
 
-h2.title,  {
+h2.title  {
     margin-top: 30px;
+}
+
+.promo .simple .line {
+    width: 292px;
+    height: 2px;
+    background-color: #ffffff;
+}
+
+.promo .simple {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 21px;
 }
 
 .simple .title_big {
@@ -57,7 +70,6 @@ h2.title,  {
     font-weight: 900;
     text-transform: uppercase;
     text-align: center;
-    margin-top: 21px;
 }
 
 .promo .promo_text {
