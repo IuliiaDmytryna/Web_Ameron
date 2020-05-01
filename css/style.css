@@ -149,6 +149,10 @@ h2.title  {
     margin-top: 18px;
 }
 
+.finish .divider2 {
+    margin-top: 38px;
+}
+
 .waiting .subheader, .webinar .description .title_3rd {
     color: #4a4a4a;
     font-size: 23px;
